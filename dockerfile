@@ -2,7 +2,7 @@ FROM ubuntu
 
 MAINTAINER AJITHKUMAR <ajithkumar001259@gmail.com>
 
-Run als
+Run ls
 
 CMD ["echo","hello.... this is my first image"]
 
